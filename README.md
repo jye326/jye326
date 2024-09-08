@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jye326&show_icons=true&theme=bear)
 
-
+# Language & Skill Stack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jye326&layout=compact&theme=chartreuse-dark)
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=#3776AB"/></a>
