@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20to%20my%20GitHub&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome%20to%20my%20GitHub&fontSize=60)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jye326&show_icons=true&theme=bear)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jye326)](https://solved.ac/jye326/)
